@@ -1,6 +1,9 @@
 npm init -y
 
-npm install redux
+npm install @reduxjs/toolkit
+
+
+
 
 npm i immer 
 
